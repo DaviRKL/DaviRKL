@@ -2,8 +2,7 @@
 
 - 🏫 Cursando Desenvolvimento de Sistemas integrado ao ensino médio na Etec Fernando Prestes - Extensão Fatec
 - 👀 Buscando vaga de estágio meio período
-- 🌱 Atualmente estou aprendendo desenvolvimento para web com php e html 5, Mobile com React Native, windows forms utilizando C# e sql para manipular os dados destes projetos 
-- 🤖 Faço algumas coisas com arduino também ...
+- 🌱 Atualmente estou aprendendo desenvolvimento para web com php e html 5, Mobile com React Native e sql para manipular os dados destes projetos 
 - 📫 Entre em contato neste email: davirkl07@gmail.com
 - 💻Site que estou desenvolvendo em aula: http://crud-bootstrap-phpdavi.atwebpages.com/ 
 

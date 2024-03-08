@@ -1,6 +1,6 @@
 ## Oii! Eu sou o Davi Konuma
 
-- 🏫 Cursando Desenvolvimento de Sistemas integrado ao ensino médio na Etec Fernando Prestes - Extensão Fatec
+- 🏫 Análise e Desenvolvimento de Sistemas modelo AMS FATEC Sorocaba
 - 👀 Buscando vaga de estágio 
 - 🤖 PHP, SQL, JS, HTML, CSS 
 - 📫 Entre em contato neste email: davirkl07@gmail.com

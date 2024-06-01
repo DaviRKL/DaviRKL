@@ -2,7 +2,7 @@
 
 - 🏫 Análise e Desenvolvimento de Sistemas modelo AMS FATEC Sorocaba
 - 👀 Buscando vaga de estágio 
-- 🤖 PHP, SQL, JS, HTML, CSS 
+- 🤖 PHP, PYTHON, SQL, JAVA, JS, HTML, CSS 
 - 📫 Entre em contato neste email: davirkl07@gmail.com
 
 

@@ -4,6 +4,7 @@
 - 👀 Buscando vaga de estágio 
 - 🤖 PHP, PYTHON, SQL, JAVA, JS, HTML, CSS 
 - 📫 Entre em contato neste email: davirkl07@gmail.com
+- 👤Linkedin: https://www.linkedin.com/in/davi-ryan-konuma-lima/ 
 
 
 

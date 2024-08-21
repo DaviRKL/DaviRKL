@@ -7,11 +7,10 @@
 - 🤖 TS, JS, PHP, PYTHON, SQL, JAVA, HTML, CSS
 - 🌱 Atualmente estou aprendendo **NestJS,NextJS, Docker e AWS CLOUD**
 - 📄 Conheça o meu currículo [https://github.com/DaviRKL/Curriculo](https://github.com/DaviRKL/Curriculo)
-- 📫 Entre em contato neste email: davirkl07@gmail.com
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davirkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davirkl" height="30" width="40" /></a>
-##
+- 📫 Entre em contato neste email: davirkl07@gmail.com ou <a href="https://linkedin.com/in/davirkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davirkl" height="30" width="40" /></a>
+
+
+
 
 <h3 align="left">Stats</h3>
 

@@ -1,4 +1,4 @@
-## Oii! Eu sou o Davi Konuma, tecnico em desenvolivmento de sistemas pela Etec FP
+## Oii! Eu sou o Davi Konuma, técnico em desenvolivmento de sistemas
 
 - 🏫 Análise e Desenvolvimento de Sistemas(2/4), AMS, FATEC Sorocaba
 - 👀 Buscando vaga de estágio 

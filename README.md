@@ -47,6 +47,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p><p align="left"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>
 
 
 

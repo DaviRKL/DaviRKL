@@ -2,7 +2,8 @@
 
 - 🏫 Análise e Desenvolvimento de Sistemas(2/4), AMS, FATEC Sorocaba
 - 👀 Buscando vaga de estágio 
-- 🤖 TS, JS, PHP, PYTHON, SQL, JAVA, HTML, CSS 
+- 🤖 TS, JS, PHP, PYTHON, SQL, JAVA, HTML, CSS
+- 🌱 Atualmente estou aprendendo **NestJS,NextJS, Docker e AWS CLOUD**
 - 📫 Entre em contato neste email: davirkl07@gmail.com
 
 <h3 align="left">Conecte-se comigo:</h3>

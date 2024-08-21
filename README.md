@@ -10,9 +10,7 @@
 - 📫 Entre em contato neste email: davirkl07@gmail.com
 ##
 <h3 align="left">Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davirkl&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davirkl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p>
 <h3 align="left">Conecte-se comigo:</h3>

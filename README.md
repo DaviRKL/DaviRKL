@@ -8,11 +8,11 @@
 - 🌱 Atualmente estou aprendendo **NestJS,NextJS, Docker e AWS CLOUD**
 - 📄 Conheça o meu currículo [https://github.com/DaviRKL/Curriculo](https://github.com/DaviRKL/Curriculo)
 - 📫 Entre em contato neste email: davirkl07@gmail.com
-
+##
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davirkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davirkl" height="30" width="40" /></a>
-  
+##  
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block"><br>
 
@@ -41,7 +41,7 @@
   <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037459832762028145/1109987699286364212/7mm8bn.gif?width=600&height=600">
 
 </div>
-  
+ ## 
 <h3 align="left">Troféus do Github:</h3>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
 

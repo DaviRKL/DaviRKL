@@ -1,6 +1,7 @@
 ## Oii! Eu sou o Davi Konuma, técnico em desenvolivmento de sistemas
 
 - 🏫 Análise e Desenvolvimento de Sistemas(2/4), AMS, FATEC Sorocaba
+- 🏫 Formado em Técnico em Desenvolvimento de Sistemas, pela Etec Fernando Prestes
 - 👀 Buscando vaga de estágio 
 - 🤖 TS, JS, PHP, PYTHON, SQL, JAVA, HTML, CSS
 - 🌱 Atualmente estou aprendendo **NestJS,NextJS, Docker e AWS CLOUD**

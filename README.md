@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Davi Konuma, técnico em desenvolivmento de sistemas 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat" alt="davirkl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="davirkl" /> </p>
 
 - 🏫 Análise e Desenvolvimento de Sistemas(2/4), AMS, FATEC Sorocaba
 - 🏫 Formado em Técnico em Desenvolvimento de Sistemas, pela Etec Fernando Prestes
@@ -46,7 +46,7 @@
   <h3 align="left">Stats</h3>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat" alt="davirkl" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p><p align="left"></p>
 
 
 

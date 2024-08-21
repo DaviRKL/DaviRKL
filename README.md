@@ -31,9 +31,9 @@
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davirkl&show_icons=true&locale=en&layout=compact" alt="davirkl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en" alt="davirkl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&" alt="davirkl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p>
 <div>
   
   <a href="https://instagram.com/davirkl67" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

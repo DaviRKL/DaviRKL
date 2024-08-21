@@ -42,7 +42,7 @@
 
 </div>
   
-<h3 align="left">Trofeus do Github:</h3>
+<h3 align="left">Troféus do Github:</h3>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
 
 ##

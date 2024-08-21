@@ -39,6 +39,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037459832762028145/1109987699286364212/7mm8bn.gif?width=600&height=600">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
 </div>
 
 ##
@@ -49,7 +50,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
+
 <div>
   
  

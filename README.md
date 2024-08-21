@@ -9,6 +9,12 @@
 - 📄 Conheça o meu currículo [https://github.com/DaviRKL/Curriculo](https://github.com/DaviRKL/Curriculo)
 - 📫 Entre em contato neste email: davirkl07@gmail.com
 ##
+<h3 align="left">Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davirkl&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davirkl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davirkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davirkl" height="30" width="40" /></a>
@@ -47,17 +53,5 @@
 
 ##
   
-<h3 align="left">Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davirkl&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davirkl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p>
-
-
-
-<div>
-  
- 
-</div>
   

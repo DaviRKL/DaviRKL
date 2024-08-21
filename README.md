@@ -39,15 +39,16 @@
   <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037459832762028145/1109987699286364212/7mm8bn.gif?width=600&height=600">
 
 </div>
-
-<h3 align="left">Troféus do Github:</h3>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
-
   <h3 align="left">Stats</h3>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davirkl&theme=dracula" alt="davirkl" /></p><p align="left"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>
+
+<h3 align="left">Troféus do Github:</h3>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
+
+
 
 
 

@@ -1,9 +1,10 @@
-## Oii! Eu sou o Davi Konuma
+## Oii! Eu sou o Davi Konuma, tecnico em desenvolivmento de sistemas pela Etec FP
 
 - 🏫 Análise e Desenvolvimento de Sistemas(2/4), AMS, FATEC Sorocaba
 - 👀 Buscando vaga de estágio 
 - 🤖 TS, JS, PHP, PYTHON, SQL, JAVA, HTML, CSS
 - 🌱 Atualmente estou aprendendo **NestJS,NextJS, Docker e AWS CLOUD**
+- 📄 Conheça o meu currículo [https://github.com/DaviRKL/Curriculo](https://github.com/DaviRKL/Curriculo)
 - 📫 Entre em contato neste email: davirkl07@gmail.com
 
 <h3 align="left">Conecte-se comigo:</h3>
@@ -44,4 +45,3 @@
  
 </div>
   
-![Snake animation](https://github.com/DaviRKL/DaviRKL/blob/output/github-contribution-grid-snake.svg)

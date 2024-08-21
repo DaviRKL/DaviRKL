@@ -46,6 +46,8 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davirkl" alt="davirkl" /></a> </p>
 
 ##
+  
+<h3 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davirkl&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davirkl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davirkl&show_icons=true&locale=en&theme=dracula" alt="davirkl" /></p>

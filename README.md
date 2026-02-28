@@ -1,4 +1,4 @@
-## Oii! Eu sou o Davi Konuma 👋 Desenvolvedor Frontend | React & Next.js 
+## Oii! Eu sou o Davi Konuma 👋 Desenvolvedor FullStack | React & Next.js 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="davirkl" /> </p>
 

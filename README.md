@@ -1,13 +1,12 @@
-## Oii! Eu sou o Davi Konuma 👋 Desenvolvedor FullStack | React & Next.js 
+## Oii! Eu sou o Davi Konuma 👋 Desenvolvedor Frontend React
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="davirkl" /> </p>
 
 - 🎓 **Graduado em Análise e Desenvolvimento de Sistemas** pela FATEC Sorocaba (2025)
 - 🎓 **Técnico em Desenvolvimento de Sistemas** pela Etec Fernando Prestes (2023)
 - 🚀 Atualmente focado em criar interfaces performáticas, escaláveis e testadas no ecossistema **React**
-- 💼 Buscando oportunidades como **Desenvolvedor Frontend Junior**
-- 🤖 Experiente em **TS, JS, React e Next.js**, com sólida base em **Node.js, NestJS e AWS**
-- 🌱 Me aprofundando em **Arquitetura de Software e Testes Avançados (Vitest)**
+- 🤖 Experiente em **TS, JS, React**, com sólida base em **Node.js,  Express**
+- 🌱 Me aprofundando em **Arquitetura de Software e Testes (Vitest)**
 - 🏅 Participante da OBI (Unicamp) e Galactic Problem Solver pela NASA Space Apps Challenge
 
 <h3 align="left">Conecte-se comigo:</h3>

@@ -1,14 +1,16 @@
-## Oii! Eu sou o Davi Konuma 👋 Desenvolvedor Frontend React
+## Olá! Eu sou o Davi Konuma 👋 Frontend Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="davirkl" /> </p>
 
-- 🎓 **Graduado em Análise e Desenvolvimento de Sistemas** pela FATEC Sorocaba (2025)
-- 🎓 **Técnico em Desenvolvimento de Sistemas** pela Etec Fernando Prestes (2023)
-- 🚀 Atualmente focado em criar interfaces performáticas, escaláveis e testadas no ecossistema **React**
-- 🤖 Experiente em **TS, JS, React**, com sólida base em **Node.js,  Express**
-- 🌱 Me aprofundando em **Arquitetura de Software e Testes (Vitest)**
-- 🏅 Participante da OBI (Unicamp) e Galactic Problem Solver pela NASA Space Apps Challenge
-
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba (2025)
+- 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes (2023)
+- 🚀 Desenvolvo aplicações web orientadas a produto utilizando React, TypeScript e arquiteturas frontend escaláveis
+- ⚙️ Experiência com gerenciamento de estado, integração entre sistemas, APIs REST e componentização reutilizável
+- 🎨 Foco em experiência do usuário, design systems, performance e evolução contínua de aplicações em produção
+- 🤖 Familiaridade com Node.js, Express, bancos SQL e ferramentas de IA aplicadas ao desenvolvimento de software
+- 🌱 Aprofundando conhecimentos em arquitetura de software, testes automatizados e engenharia de frontend
+- 🏅 Participante da OBI (Unicamp) e Galactic Problem Solver no NASA Space Apps Challenge
+  
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davirkl" target="blank">

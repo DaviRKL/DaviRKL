@@ -6,8 +6,8 @@ Uno a construção de interfaces escaláveis à orquestração de **Inteligênci
 
 ### 🚀 O que eu faço:
 - 💻 **Engenharia Front-End:** Construção de interfaces complexas, gerenciamento avançado de estado global (Redux/URL), modernização de fluxos legados (CRM) e acessibilidade (WCAG).
+- ⚡ **AI-Assisted Development:** Uso ativo de ferramentas de pair programming (Antigravity, GitHub Copilot, Gemini Code Assistant) para refatorações ágeis, clean code e entregas seguras.
 - 🤖 **IA & Automação:** Orquestração de agentes autônomos (**CrewAI**), automação de processos (**n8n**, Google Apps Script) e integração de **LLMs** para resolver gargalos operacionais.
-- ⚡ **AI-Assisted Development:** Uso ativo de ferramentas de pair programming (GitHub Copilot, Gemini) para refatorações ágeis, clean code e entregas seguras.
 - 🏆 **Conquistas:** Reconhecido como *"Galactic Problem Solver"* no **NASA Space Apps Challenge** e participante da OBI (Unicamp).
 - 🎓 **Base Acadêmica:** Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba.
 

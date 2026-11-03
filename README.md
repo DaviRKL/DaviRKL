@@ -1,44 +1,22 @@
-## Olá! Eu sou o Davi Konuma 👋 Frontend Engineer
+# Olá! Eu sou o Davi Konuma 👋 Front-End Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davirkl&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="davirkl" /> </p>
+Desenvolvedor Front-End especializado no ecossistema **React e TypeScript**, com sólida atuação na engenharia e evolução de plataformas **SaaS B2B para o setor financeiro** (produtos utilizados por instituições como Banco Santander, Caixa e BMG). 
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba (2025)
-- 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes (2023)
-- 🚀 Desenvolvo aplicações web orientadas a produto utilizando React, TypeScript e arquiteturas frontend escaláveis
-- ⚙️ Experiência com gerenciamento de estado, integração entre sistemas, APIs REST e componentização reutilizável
-- 🎨 Foco em experiência do usuário, design systems, performance e evolução contínua de aplicações em produção
-- 🤖 Familiaridade com Node.js, Express, bancos SQL e ferramentas de IA aplicadas ao desenvolvimento de software
-- 🌱 Aprofundando conhecimentos em arquitetura de software, testes automatizados e engenharia de frontend
-- 🏅 Participante da OBI (Unicamp) e Galactic Problem Solver no NASA Space Apps Challenge
-  
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davirkl" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davirkl" height="30" width="40" />
-</a>
-<a href="mailto:davirkl07@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
-</a>
-</p>
+Uno a construção de interfaces escaláveis à orquestração de **Inteligência Artificial e automação**, entregando aplicações focadas em performance, acessibilidade e valor real para o negócio.
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+### 🚀 O que eu faço:
+- 💻 **Engenharia Front-End:** Construção de interfaces complexas, gerenciamento avançado de estado global (Redux/URL), modernização de fluxos legados (CRM) e acessibilidade (WCAG).
+- 🤖 **IA & Automação:** Orquestração de agentes autônomos (**CrewAI**), automação de processos (**n8n**, Google Apps Script) e integração de **LLMs** para resolver gargalos operacionais.
+- ⚡ **AI-Assisted Development:** Uso ativo de ferramentas de pair programming (GitHub Copilot, Gemini) para refatorações ágeis, clean code e entregas seguras.
+- 🏆 **Conquistas:** Reconhecido como *"Galactic Problem Solver"* no **NASA Space Apps Challenge** e participante da OBI (Unicamp).
+- 🎓 **Base Acadêmica:** Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba.
 
-  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037459832762028145/1109987699286364212/7mm8bn.gif?width=600&height=600">
-</div>
+### 🛠️ Stack & Ferramentas
+- **Front-End:** React.js, Next.js, TypeScript, Redux, Context API, Tailwind CSS, Styled Components.
+- **Back-End & Automação:** Node.js, Express, PostgreSQL, n8n, APIs REST.
+- **IA:** CrewAI, Integração com LLMs, Prompt Engineering.
 
-
+---
+### 📬 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davirkl/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
